@@ -3,7 +3,7 @@ import React from "react";
 export default function Header() {
   return (
     <div className="bg-violet-800 text-white text-center py-36 ">
-        <p className="mt-3">Pricing UI using Tailwind CSS - by Partab Raj.</p>
+        <p className="mt-3">Pricing UI using Tailwind CSS - by Partab Raj..</p>
 
       <div>
         <h1 className="text-4xl font-bold">Simple pricing for your business</h1>
